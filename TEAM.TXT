@@ -1,0 +1,7 @@
+"    ", "Jazz", "Jets", "Owls", "Rams", "Cubs", "Zips"
+"Jazz", " -- ", "Jazz", "Jazz", "Rams", "Cubs", "Jazz"
+"Jets", "Jazz", " -- ", "Jets", "Jets", "Cubs", "Zips"
+"Owls", "Jazz", "Jets", " -- ", "Rams", "Owls", "Owls"
+"Rams", "Rams", "Jets", "Rams", " -- ", "Rams", "Rams"
+"Cubs", "Cubs", "Cubs", "Owls", "Rams", " -- ", "Cubs"
+"Zips", "Jazz", "Zips", "Owls", "Rams", "Cubs", " -- "
